@@ -1,5 +1,3 @@
-<img width="2542" height="166" alt="image" src="https://github.com/user-attachments/assets/918de254-9eec-4a75-82ce-8ff4a21e9e42" /><div align="left">
-
 ## 👋 안녕하세요! 백엔드 개발자 <b>주현아</b>입니다.  
 
 ✨ 포기하지 않고 끝까지 해결책을 찾아내는 도전을 즐깁니다.  
