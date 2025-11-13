@@ -1,4 +1,4 @@
-<div align="left">
+<img width="2542" height="166" alt="image" src="https://github.com/user-attachments/assets/918de254-9eec-4a75-82ce-8ff4a21e9e42" /><div align="left">
 
 ## 👋 안녕하세요! 백엔드 개발자 <b>주현아</b>입니다.  
 
@@ -6,7 +6,15 @@
 💡 어떤 한계 앞에서도 멈추지 않고 <b>기술로 답을 찾아내는 개발자</b>입니다.  
 
 ---
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JuHyeonAh&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/JuHyeonAh"
+  width="600"
+  height="300"
+/>
+</a>
 
+---
 ## 🛠️ Tech Stacks  
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
@@ -44,6 +52,4 @@
 ## 🏅 Stats  
 
 <img src="https://github-readme-stats.vercel.app/api?username=JuHyeonAh&show_icons=true&theme=default&hide_border=true&bg_color=00000000&text_color=333&title_color=000"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuHyeonAh&layout=compact&hide_border=true&bg_color=00000000&text_color=333&title_color=000"/>  
-
 </div>
